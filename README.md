@@ -1,3 +1,4 @@
-## G0
+## Beginner developer. 
+## I study programming in Dart, Flutter. 
 
 
