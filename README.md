@@ -1,4 +1,4 @@
 ## Beginner developer. 
-## I study programming in Dart, Flutter. 
+I study programming in Dart, Flutter. 
 
 
