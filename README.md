@@ -13,13 +13,6 @@
 
 ---
 
-### Используемые технологии
-
-- [Flutter](https://flutter.dev/) — официальный сайт  
-- [Dart](https://dart.dev/) — официальный сайт  
-
----
-
 Высокое качество.
 
 ![Image alt](https://github.com/bostersdf/bostersdf/blob/main/237561.gif)
