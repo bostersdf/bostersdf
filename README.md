@@ -9,7 +9,7 @@
 
 ## Мои проекты
 
-Вы можете ознакомиться с моими проектами на GitHub: [*bostersdf*]([https://github.com/bostersdf](https://github.com/bostersdf?tab=repositories))
+Вы можете ознакомиться с моими проектами на GitHub: [github.com/bostersdf]([https://github.com/bostersdf](https://github.com/bostersdf?tab=repositories))
 
 ---
 
