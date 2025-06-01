@@ -12,5 +12,4 @@
 Вы можете ознакомиться с моими проектами на GitHub: [*bostersdf*](https://github.com/bostersdf?tab=repositories)
 
 ---
-
 Высокое качество!!!----->  ![Image alt](https://github.com/bostersdf/bostersdf/blob/main/237561.gif)
