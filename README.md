@@ -13,6 +13,6 @@
 
 ---
 
-Высокое качество.
+Высокое качество!!! 
 
 ![Image alt](https://github.com/bostersdf/bostersdf/blob/main/237561.gif)
